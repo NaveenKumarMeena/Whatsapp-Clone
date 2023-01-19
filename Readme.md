@@ -26,4 +26,6 @@ Open [http://localhost:9000](http://localhost:9000) to view it in your Terminal.
 
 You may also see any lint errors in the console.
 Here are some Images of the Project:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/SFKi7U5"><a href="//imgur.com/SFKi7U5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<div>
+<img src="https://imgur.com/a/SFKi7U5"/>
+</div>
