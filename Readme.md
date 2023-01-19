@@ -30,12 +30,14 @@ Here are some Images of the  Front-End Project:
 <img src="https://i.imgur.com/NNnNP03.png"/>
 </div>
  
- 
- 
- 
+| 
+|
+|
  
  Mongodb:
- 
+ |
+ |
+ |
  
  
  
